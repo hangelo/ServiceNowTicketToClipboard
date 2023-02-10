@@ -1,0 +1,15 @@
+/*.calendar-task {
+   background: #FFF !important;
+}*/
+
+
+/* The whole calendar */
+#calendar-wrapper {
+    width: 94% !important;
+}
+
+
+/* Each day */
+.calendar-cell {
+    padding: 8px;
+}
